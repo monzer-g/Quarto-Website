@@ -11,13 +11,27 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n\n\nCommodore PET\n\n\nI’m an undergraduate senior biology student at the University of Massachusetts Amherst. I hope to continue my education in biology and genetics with a graduate program."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Lab 1\nLab 2"
+    "text": "Lab 1\nLab 2\n\nThis placeholder text above was already here, but the title was changed to Labs in the _quarto.yml"
+  },
+  {
+    "objectID": "lab.html",
+    "href": "lab.html",
+    "title": "Labs",
+    "section": "",
+    "text": "Currently working on making a website"
+  },
+  {
+    "objectID": "Presentation.html",
+    "href": "Presentation.html",
+    "title": "Presentation",
+    "section": "",
+    "text": "Thanks for viewing my website!"
   }
 ]

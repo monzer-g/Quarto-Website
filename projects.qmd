@@ -5,3 +5,5 @@ title: "Projects"
 -   Lab 1
 
 -   Lab 2
+
+This placeholder text above was already here, but the title was changed to Labs in the \_quarto.yml

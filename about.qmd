@@ -4,6 +4,6 @@ title: "About"
 
 About this site
 
-```{r}
-1 + 1
-```
+![Commodore PET](images/Pet4016.png)
+
+I'm an undergraduate senior biology student at the University of Massachusetts Amherst. I hope to continue my education in biology and genetics with a graduate program.

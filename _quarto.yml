@@ -8,13 +8,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+      - href: lab.qmd
       - href: projects.qmd
-        text: Lab
+        text: Projects
+      - href: Presentation.qmd
 
 format:
   html:
-    theme: darkly
+    theme: spacelab
     css: styles.css
     toc: true
 
