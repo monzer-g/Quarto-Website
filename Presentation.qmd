@@ -2,6 +2,6 @@
 title: "Presentation"
 ---
 
-![](images/thumbsupstock.jpg)
-
-Thanks for viewing my website!
+```{r}
+knitr::include_url("Final_Project.html")
+```

@@ -12,7 +12,7 @@ website:
       - href: lab.qmd
       - href: projects.qmd
         text: Projects
-      - href: Presentation.qmd
+      - href: Final.qmd
 
 format:
   html:
